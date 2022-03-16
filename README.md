@@ -39,7 +39,7 @@ needed.
 
 ## Documentation
 
-see [skrbox.github.io/whitebox_exporter](https://skrbox.github.io/whitebox_exporter) or edit it in [github repo](https://github.com/skrbox/whitebox_exporter/tree/gh-pages/index.md)
+see [skrbox.github.io/whitebox_exporter](https://skrbox.github.io/whitebox_exporter) or edit it in [doc](https://github.com/skrbox/whitebox_exporter/doc/)
 
 ## Contributing
 
