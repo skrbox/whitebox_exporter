@@ -37,6 +37,10 @@ docker run jeyrce/whitebox_exporter:latest -p 12306:12306
 There's a repo [box](https://github.com/skrbox/box) contributed by any other developers may find configuration files you
 needed.
 
+## Documentation
+
+see [skrbox.github.io/whitebox_exporter](https://skrbox.github.io/whitebox_exporter) or edit it in [github repo](https://github.com/skrbox/whitebox_exporter/tree/gh-pages/index.md)
+
 ## Contributing
 
 - 1、fork the repo
