@@ -1,6 +1,16 @@
 # whitebox_exporter
 
-collect metrics from any http requests for prometheus
+whitebox_exporter is an exporter who can collect metrics from any http requests for prometheus system.
+
+we can collect metrics from a list of http request:
+
+- json response
+- xml response
+- html response
+- txt response
+- yaml response
+- response header
+
 
 ## Quick start
 
